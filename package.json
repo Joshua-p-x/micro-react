@@ -10,5 +10,6 @@
     "react"
   ],
   "author": "Joshua.Xu",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
